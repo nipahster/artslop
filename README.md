@@ -1,2 +1,2 @@
 # artslop
-works ranging from this year back to early 2024
+works ranging from early 2024 to this year
